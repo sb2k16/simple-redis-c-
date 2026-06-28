@@ -1,4 +1,4 @@
-# simple-redis
+# simple-redis-c-
 
 A simplified in-memory Redis-compatible server written in **C++17**. Supports concurrent TCP clients, key expiration, LRU eviction, lists, sorted sets, pub/sub, and JSON snapshot persistence.
 
