@@ -1,0 +1,4 @@
+bin/
+data/
+*.o
+src/**/*.o
